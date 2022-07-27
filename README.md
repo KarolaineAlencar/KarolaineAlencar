@@ -1,3 +1,4 @@
+
 ## Olá! Eu sou a Karolaine Alencar✌️
 
 <div>
@@ -8,7 +9,7 @@
   <img align="right" alt="Karol-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div><br>
 
-Estudante de análise e desenvolvimento de sistemas, trabalho com desenvolvimento de sistemas na empresa Capgemini, gosto de desafios e aprender coisas novas.
+Estudante de análise e desenvolvimento de sistemas, trabalho como desenvolvedora<br> na empresa Capgemini, gosto de desafios e aprender coisas novas.
 
 - 🔭 Hoje trabalho com back-end com Java Spring Boot
 - 🌱 Estudando Angular, API REST e microsserviços 
