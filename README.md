@@ -1,4 +1,4 @@
-## Olá! Eu sou a Karolaine Alencar✌️n
+## Olá! Eu sou a Karolaine Alencar✌️
 
 <div>
   <a href="https://www.instagram.com/karolaine.alencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
