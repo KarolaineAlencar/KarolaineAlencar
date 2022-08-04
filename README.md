@@ -23,7 +23,7 @@ Estudante de análise e desenvolvimento de sistemas, trabalho como desenvolvedor
   <img align="center" alt="Karol-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>  </br>
 
-<div>
+<div style="display: inline_block">
 <a href="https://github.com/KarolaineAlencar">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolaineAlencar&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KarolaineAlencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
